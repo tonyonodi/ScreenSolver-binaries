@@ -8,7 +8,7 @@
             <sparkle:version>0.1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tonyonodi.github.io/ScreenSolver-binaries/ScreenSolver.dmg" length="3531849" type="application/octet-stream" sparkle:edSignature="gR+//tWrr1SF1423V3uO7wQWU8nJHsneXbnZJzUeQZuKu2rICzMXYKqybQZAu+CTbr61c4JbojsbvDqbbCZJCg=="/>
+            <enclosure url="https://github.com/tonyonodi/ScreenSolver-binaries/releases/download/prod/ScreenSolver.dmg" length="3532548" type="application/octet-stream" sparkle:edSignature="heziaQsjMTBa0gQizb3JpbWCO1qLmmxovGuTOOQc99LKbi549FbBwHc/IoGnTncfGodoyrZlgUGNScDNvPjKCA=="/>
         </item>
     </channel>
 </rss>
