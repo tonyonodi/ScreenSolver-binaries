@@ -3,12 +3,12 @@
     <channel>
         <title>ScreenSolver</title>
         <item>
-            <title>0.3</title>
-            <pubDate>Mon, 01 Apr 2024 00:14:59 +0100</pubDate>
-            <sparkle:version>0.3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <title>0.4</title>
+            <pubDate>Mon, 01 Apr 2024 23:44:21 +0100</pubDate>
+            <sparkle:version>0.4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tonyonodi/ScreenSolver-binaries/releases/download/prod/ScreenSolver.dmg" length="3523860" type="application/octet-stream" sparkle:edSignature="sAYb3mWMqyP9VRaEKTjHaYxc5pWvHXDPDa4g3W/n1Cz1s6WhiPLKDlDsSx8XnXIMxsoPuEsOgXfa6xsM+/RlBA=="/>
+            <enclosure url="https://github.com/tonyonodi/ScreenSolver-binaries/releases/download/prod/ScreenSolver.dmg" length="3529965" type="application/octet-stream" sparkle:edSignature="rjqLnYEYQbw7etvSASEmCPT9Du03fsCVjHHWlWMSZcJsScUy6KxDnD5ajaiPq4k6Me6lEN9LdJAZIhBK7Y4nAA=="/>
         </item>
     </channel>
 </rss>
